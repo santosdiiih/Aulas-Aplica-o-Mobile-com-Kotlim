@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecicleView Artistas </string>
+    <string name="hit">
+        Hits: A culpa é do meu signo
+    </string>
+    <string name="nome_artista">Nome Artista</string>
+    <string name="idade_artista">Idade Artista</string>
+    <string name="lan_amento">Lançamento</string>
+    <string name="like">Like</string>
+
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ReciclerView Jogo </string>
+
+    <string name="nome_do_jogo">Nome do Jogo</string>
+    <string name="produtora_do_jogo">Produtora do Jogo</string>
+    <string name="console">Console:</string>
+    <string name="nota_do_jogo">Nota do Jogo:</string>
+    <string name="zerado">Zerado</string>
+    <string-array name="consoles">
+        <item> Super Nintendo </item>
+        <item> PC </item>
+        <item> Mega Drive </item>
+        <item> PS - 4 </item>
+        <item> Sega Saturn </item>
+        <item> Playstation </item>
+        <item> Atary Jaguar </item>
+        <item> XBOX - One </item>
+    </string-array>
+</resources>
